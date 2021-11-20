@@ -1,0 +1,66 @@
+**Negrito**
+ou
+__Negrito__
+
+*Itálico*
+ou
+_Itálico_
+
+~~Riscando a palavra~~
+
+#Título nivel 1
+
+##Titulo nivel 2
+
+###Titulo nivel 3
+
+--- Faz uma linha
+ou
+*** Faz uma linha
+
+__*Negrito e italico*__
+
+1. Lista numerada:
+
+1. Lista com sub-item:
+   1. Sub-item.
+
+Lista com marcadores:
+* Teste
+* Test
+ou 
+- Teste
+- Teste
+
+Lista de Tarefas:
+- [] Criar pagina principal
+- [] Finalizar reuniao
+- [] entregar projeto
+- [x] Projeto entregue
+
+Disponibilizando um link:
+[Clique aqui](https://instagram.com/diegodb_)
+
+Criando tabelas:
+Colunas:
+Número | Nome | Nota
+Linhas:
+---|---|---
+1 | Diego |8,5
+2 | Levi | 10,0
+
+destacando uma parte do texto só colocar entre crases `teste`
+
+Estilo programação:
+````
+num = int(input('Digite um valor: '))
+if num % 2 == 0:
+    print(f'O valor digitado {num} é par.')
+else:
+    print(f'O valor digitado {num} é impar.')
+
+emotion:
+ coloca :
+````
+
+
